@@ -1,3 +1,6 @@
+//In every iteration find the smallest element and put it in its correct 
+//position
+
 package Sorting;
 
 import java.util.Arrays;
